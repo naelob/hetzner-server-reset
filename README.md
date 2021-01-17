@@ -14,10 +14,11 @@ RULES OF THE BOT :
 
 ![Capture d’écran 2021-01-17 à 02 25 51](https://user-images.githubusercontent.com/39710677/104828583-435f5c00-586b-11eb-8b96-d9fd6665c2af.png)
 
-In this function called site_login(email,pwd,server_line), you need to enter the eamil and password linked with your HETZNER account.
+In this function called site_login(email,pwd,server_line), you need to enter the email and password linked with your HETZNER account.
 The third argument is server_line : 
 
-![Capture d’écran 2021-01-17 à 02 28 53 copy](https://user-images.githubusercontent.com/39710677/104828665-29724900-586c-11eb-8727-f4c27c3c7883.png)
+![104828665-29724900-586c-11eb-8727-f4c27c3c7883](https://user-images.githubusercontent.com/39710677/104843050-fc07b880-58c8-11eb-9acf-796d917adfb4.png)
+
 
 Locate the server you want to reset 
 
