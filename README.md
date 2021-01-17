@@ -6,7 +6,7 @@ This bot is made with Selenium and helps anyone to manage their servers.
 If you have a lot of servers and need to launch an automatic hardware reset each single day to clean your machines, this is the right place.
 No need to connect again and again in order to do a manual login and reset.
 
-This bot do it for you.
+This bot does it for you.
 
 RULES OF THE BOT :
 
