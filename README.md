@@ -20,6 +20,7 @@ The third argument is server_line :
 ![Capture d’écran 2021-01-17 à 02 28 53 copy](https://user-images.githubusercontent.com/39710677/104828665-29724900-586c-11eb-8727-f4c27c3c7883.png)
 
 Locate the server you want to reset 
+
                 => if it's on the 1st line => server_line = 1
                 => if it's on the 2nd line => server_line = 2
                 => and so on .... (here I have only 2 servers by the way)
